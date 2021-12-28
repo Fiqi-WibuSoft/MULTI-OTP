@@ -124,7 +124,7 @@ def alok_mengpro():
          os.system("xdg-open http://wa.me/6283125187277")
     elif alok == "6":
          os.system("xdg-open https://chat.whatsapp.com/Dgt6JhzTvlmEor8Zz23fHx")
-         print ("Sc Bot Wa By Denz https://github.com/dcode-denpa/bitch-boot
+         print ("Sc Bot Wa By Denz https://github.com/dcode-denpa/bitch-boot")
     else:
          time.sleep(2)
          print ("\033[1;37m[\033[31m•\033[1;37m] Command: "+alok+" not found")
