@@ -121,7 +121,7 @@ def alok_mengpro():
          os.system("xdg-open https://instagram.com/hyputganz_")
          print (":)")
     elif alok == "5":
-         os.system("xdg-open https://wa.me/qr/5ZZO5XQV4VE6H1
+         os.system("xdg-open http://wa.me/6283125187277?text=Halo+*FiqX54NZ7*
          
     else:
          time.sleep(2)
@@ -143,7 +143,7 @@ def banner_anjay_alok():
     print ("    \033[1;37m\033[31m\033[1;33m1\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Target \033[31m(\033[36mDuniaGames\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m2\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Target \033[31m(\033[36mRedBus\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m3\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Target \033[31m(\033[36mRupiahCepat\033[31m) ")
-    print ("    \033[1;37m\033[31m\033[1;33m4\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mFollow Akun Instagram Kami\033[31m(\033[32mIG\033[31m) ")
+    print ("    \033[1;37m\033[31m\033[1;33m4\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mFollow Akun Instagram Kami \033[31m(\033[32mIG\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m5\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mNo Whatsapp Admin \033[31m(\033[36mFiqX54NZ\033[31m) ")
     print ("")
     alok_mengpro()
