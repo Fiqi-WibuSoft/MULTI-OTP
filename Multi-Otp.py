@@ -121,7 +121,7 @@ def alok_mengpro():
          os.system("xdg-open https://instagram.com/hyputganz_")
          print (":)")
     elif alok == "5":
-         os.system("xdg-open http://wa.me/6283125187277?text=Halo+*FiqX54NZ7*
+         os.system("xdg-open http://wa.me/6283125187277")
          
     else:
          time.sleep(2)
