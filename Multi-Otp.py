@@ -123,7 +123,7 @@ def alok_mengpro():
     elif alok == "5":
          os.system("xdg-open http://wa.me/6283125187277")
     elif alok == "6":
-         os.system("xdg-open https://chat.whatsapp.com/EXQvCWjeZFg4xjq3N0")
+         os.system("xdg-open https://chat.whatsapp.com/EXQvCWjeZFg4xjq3N0S7Av")
          print (":)")
     else:
          time.sleep(2)
@@ -147,7 +147,7 @@ def banner_anjay_alok():
     print ("    \033[1;37m\033[31m\033[1;33m3\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mSpam Target \033[31m(\033[36mRupiahCepat\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m4\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mFollow Akun Instagram Kami \033[31m(\033[32mIG\033[31m) ")
     print ("    \033[1;37m\033[31m\033[1;33m5\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37mNo Whatsapp Admin \033[31m(\033[36mFiqX54NZ\033[31m) ")
-    print ("    \033[1;37m\033[31m\033[1;33m6\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37.mJoin My Gc \033[31m(\033[36mBy 4RdiBotZ\033[31m) ")
+    print ("    \033[1;37m\033[31m\033[1;33m6\033[31m.\033[1;37m \033[31m\033[1;37m\033[1;37.Join My Gc \033[31m(\033[36mBy 4RdiBotZ\033[31m) ")
     print ("")
     alok_mengpro()
 def countdownTimer(start_minute, start_second):
